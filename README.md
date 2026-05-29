@@ -32,6 +32,8 @@ Web3 enthusiast focused on **Blockchain, testnets, and early-stage projects**.
 
 ## APP:
 
+- agentcywork.vercel.app
+- mmshellody.vercel.app/
 - dobby-news-agent.onrender.com
 - dobby-runner.vercel.app
 - sentient-squidgame.vercel.app
